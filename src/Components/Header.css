@@ -1,0 +1,14 @@
+#navbar{
+    background: black;
+    color: #fafafaca;
+    display: flex;
+    align-items: center;
+
+}
+#eng{
+    display: flex;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}

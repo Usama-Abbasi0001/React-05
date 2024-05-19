@@ -1,0 +1,9 @@
+#items{
+    border: 1px solid #0000004D;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius:6px ;
+    flex-direction: column;
+}

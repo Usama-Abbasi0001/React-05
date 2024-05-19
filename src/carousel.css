@@ -1,0 +1,9 @@
+#frame-1{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+#frame-2{
+    width: 80%;
+}

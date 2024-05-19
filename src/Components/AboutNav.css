@@ -1,0 +1,14 @@
+#nav{
+    border-bottom: 0.5px solid hsla(0, 0%, 0%, 1)
+}
+
+#links-1{
+    display: none;
+}
+#links-2{
+    display: none;
+}
+
+#close{
+    display: none;
+}
